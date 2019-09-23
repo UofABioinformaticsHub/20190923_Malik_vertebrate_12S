@@ -54,8 +54,8 @@ cut -f1 12S_vertebrates.taxonomy \
 
 # Resources
 
-https://www.ncbi.nlm.nih.gov/books/NBK179288/
-http://home.cc.umanitoba.ca/~psgendb/birchhomedir/doc/NCBI/edirect/chapter6.pdf
-https://ncbi-hackathons.github.io/EDirectCookbook/
-http://bioinformatics.cvr.ac.uk/blog/ncbi-entrez-direct-unix-e-utilities/
+ * https://www.ncbi.nlm.nih.gov/books/NBK179288/
+ * http://home.cc.umanitoba.ca/~psgendb/birchhomedir/doc/NCBI/edirect/chapter6.pdf
+ * https://ncbi-hackathons.github.io/EDirectCookbook/
+ * http://bioinformatics.cvr.ac.uk/blog/ncbi-entrez-direct-unix-e-utilities/
 
